@@ -1,1 +1,5 @@
-# Food
+# Web Site html css javascript (angular)
+![screencapture-localhost-4200-2023-10-03-17_37_28](https://github.com/XJOKZVO/Food/assets/97549742/e6f2a790-12c6-4f76-bf6f-08eeb96df987)
+![screencapture-localhost-4200-menu-2023-10-03-17_38_25](https://github.com/XJOKZVO/Food/assets/97549742/40eb4c38-74bd-42e1-9b86-fbcf9efcec4a)
+![screencapture-localhost-4200-contact-2023-10-03-17_38_47](https://github.com/XJOKZVO/Food/assets/97549742/d2558082-60d8-4a0b-99e1-7fd961f60da5)
+![screencapture-localhost-4200-about-2023-10-03-17_38_17](https://github.com/XJOKZVO/Food/assets/97549742/5402f9e5-ad4a-469c-b202-f02b9e513dcd)
